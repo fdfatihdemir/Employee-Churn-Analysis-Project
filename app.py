@@ -13,7 +13,7 @@ st.markdown(
 						font-family:cursive;\
 						text-align:center;\
 						background-color:;\
-						color:red;'>EMPLOYEE CONTINUITY PREDICTION GROUP 10\
+						color:red;'>EMPLOYEE CONTINUITY PREDICTION\
 			</h1>", unsafe_allow_html=True
 			)
 
