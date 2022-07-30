@@ -13,7 +13,7 @@ st.markdown(
 						font-family:cursive;\
 						text-align:center;\
 						background-color:;\
-						color:red;'>EMPLOYEE LEAVE PREDICTION GROUP 10\
+						color:red;'>EMPLOYEE CONTINUITY PREDICTION GROUP 10\
 			</h1>", unsafe_allow_html=True
 			)
 
@@ -102,7 +102,7 @@ else:
 
 st.sidebar.markdown(
 			"<h1 style='text-align:center;\
-						color: red;font-family:cursive;font-size:115%;'>Will Your Employee Run Away\
+						color: red;font-family:cursive;font-size:115%;'>Will Your Employee Continue?\
 			</h1>", unsafe_allow_html=True
 			)
 
