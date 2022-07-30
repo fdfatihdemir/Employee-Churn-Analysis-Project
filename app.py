@@ -102,7 +102,7 @@ else:
 
 st.sidebar.markdown(
 			"<h1 style='text-align:center;\
-						color: tomato;font-family:cursive;font-size:115%;'>Will Your Employee Run Away\
+						color: red;font-family:cursive;font-size:115%;'>Will Your Employee Run Away\
 			</h1>", unsafe_allow_html=True
 			)
 
@@ -110,7 +110,7 @@ st.sidebar.write('\n')
 
 st.sidebar.markdown("""
 			<p style='text-align:center;\
-						color: white; background-color:orange;'>Please Slide\
+						color: white; background-color:blue;'>Please Slide\
 			</p>
 			""", unsafe_allow_html=True
 			)
@@ -123,7 +123,7 @@ st.sidebar.write('\n')
 
 st.sidebar.markdown("""
 			<p style='text-align:center;\
-						color: white; background-color:orange;'>Please Choose\
+						color: white; background-color:blue;'>Please Choose\
 			</p>
 			""", unsafe_allow_html=True
 			)
@@ -135,7 +135,7 @@ st.sidebar.write('\n')
 
 st.sidebar.markdown("""
 			<p style='text-align:center;\
-						color: white; background-color:orange;'>Please Use "+" and "-" Buttons\
+						color: white; background-color:blue;'>Please Use "+" and "-" Buttons\
 			</p>
 			""", unsafe_allow_html=True
 			)
@@ -147,7 +147,7 @@ st.sidebar.write('\n')
 
 st.sidebar.markdown("""
 			<p style='text-align:center;\
-						color: white; background-color:orange;'>Please Select From List\
+						color: white; background-color:blue;'>Please Select From List\
 			</p>
 			""", unsafe_allow_html=True
 			)
