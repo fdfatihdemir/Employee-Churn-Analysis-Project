@@ -74,7 +74,7 @@ selection = st.selectbox("",["Gradient Boost", "Random Forest", "KNN"])
 if selection =="Gradient Boost":
 	st.markdown("<p style='text-align:center; color:black; font-size:110%; background-color:#F2F3F4 ;'>\
 				You selected \
-				<span style='color:tomato;font-weight:bold'>\
+				<span style='color:red;font-weight:bold'>\
 				'Gradient Boost'\
 				</span> model!\
 				</p>", unsafe_allow_html=True
@@ -83,7 +83,7 @@ if selection =="Gradient Boost":
 elif selection =="Random Forest":
 	st.markdown("<p style='text-align:center; color:black; font-size:110%; background-color:#F2F3F4 ;'>\
 				You selected \
-				<span style='color:tomato;font-weight:bold'>\
+				<span style='color:red;font-weight:bold'>\
 				'Random Forest'\
 				</span> model!\
 				</p>", unsafe_allow_html=True
@@ -92,7 +92,7 @@ elif selection =="Random Forest":
 else:
 	st.markdown("<p style='text-align:center; color:black; font-size:110%; background-color:#F2F3F4 ;'>\
 				You selected \
-				<span style='color:tomato;font-weight:bold'>\
+				<span style='color:red;font-weight:bold'>\
 				'KNN'\
 				</span> model!\
 				</p>", unsafe_allow_html=True
