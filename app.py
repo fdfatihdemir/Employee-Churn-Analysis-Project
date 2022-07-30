@@ -22,8 +22,8 @@ st.markdown(
 
 st.markdown("""
 			<div style="background-color:blue;\
-						border-radius: 10px;\
-						padding:15px">
+						border-radius: 15px;\
+						padding:25px">
 			<h2 style="color:white;\
 					   text-align:center;\
 					   font-family:cursive;">Streamlit Churn Prediction ML App\
