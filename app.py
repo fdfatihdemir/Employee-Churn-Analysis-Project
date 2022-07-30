@@ -13,7 +13,7 @@ st.markdown(
 						font-family:cursive;\
 						text-align:center;\
 						background-color:;\
-						color:tomato;'>EMPLOYEE LEAVE PREDICTION GROUP 10\
+						color:red;'>EMPLOYEE LEAVE PREDICTION GROUP 10\
 			</h1>", unsafe_allow_html=True
 			)
 
@@ -21,7 +21,7 @@ st.markdown(
 
 
 st.markdown("""
-			<div style="background-color:orange;\
+			<div style="background-color:blue;\
 						border-radius: 10px;\
 						padding:15px">
 			<h2 style="color:white;\
@@ -52,7 +52,7 @@ st.markdown("""
 			<center>
 			<p style='font-size:200%;\
 						font-family:cursive;\
-						background-color:orange;\
+						background-color:blue;\
 						border-radius: 10px;\
 						color:white;'>Select Your ML Model\
 			</p>
