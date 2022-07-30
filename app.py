@@ -9,7 +9,7 @@ from sklearn.preprocessing import MinMaxScaler
 
 #st.title('Employee Leave Prediction')
 st.markdown(
-			"<h1 style='font-size:500%;\
+			"<h1 style='font-size:350%;\
 						font-family:cursive;\
 						text-align:center;\
 						background-color:;\
